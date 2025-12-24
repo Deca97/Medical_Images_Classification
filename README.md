@@ -1,3 +1,6 @@
+# Medical Images Classification
+
+
 Il progetto consiste nello sviluppo di un sistema di Computer Vision basato su Deep Learning per la classificazione automatica di lesioni cutanee, con l'obiettivo di supportare la diagnosi precoce di neoplasie come il melanoma.
 
 
